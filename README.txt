@@ -10,3 +10,5 @@ Now R# will say that it can't find "SomeCliClass" in "TestClass.cs". However, th
 will still build fine.
 
 Note also that a rebuild doesn't resolve the wrong error.
+
+Tested with Visual Studio 2015 Update 1.

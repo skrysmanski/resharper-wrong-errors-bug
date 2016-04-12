@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLib", "CSharpLib\CSharpLib.csproj", "{01D5072C-2A2C-494A-8625-4443F46185C3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CliLib", "CliLib\CliLib.vcxproj", "{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01D5072C-2A2C-494A-8625-4443F46185C3}.Debug|x64.ActiveCfg = Debug|x64
+		{01D5072C-2A2C-494A-8625-4443F46185C3}.Debug|x64.Build.0 = Debug|x64
+		{01D5072C-2A2C-494A-8625-4443F46185C3}.Release|x64.ActiveCfg = Release|x64
+		{01D5072C-2A2C-494A-8625-4443F46185C3}.Release|x64.Build.0 = Release|x64
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Debug|x64.ActiveCfg = Debug|x64
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Debug|x64.Build.0 = Debug|x64
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Release|x64.ActiveCfg = Release|x64
+		{0707CF4C-28FB-4A8D-B9FE-E3F27EE59392}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.VC.opendb
+*.sdf
+_ReSharper.Caches/
+x64/
+bin/
+obj/
